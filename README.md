@@ -6,19 +6,24 @@ This project focuses on analyzing credit card transactions and customer behavior
 Two dashboards were created to analyze the data from different perspectives:
 
 1️⃣ Credit Card Transactions Dashboard – focuses on transaction activity and revenue generation.
+
 2️⃣ Credit Card Customer Dashboard – focuses on customer demographics, income, satisfaction, and behavior.
 
 By visualizing key performance indicators and trends, the dashboards help identify high-value customers, spending categories, and business opportunities for credit card companies.
 
-🎯 **PROJECT OBJECTIVES**
+🎯 **PROJECT OBJECTIVES**:
 
 The main objectives of this project are:
 
 1.To analyze credit card revenue and transaction patterns
-2.To identify high-performing card categories
+    2.To identify high-performing card categories
+
 3.To understand customer spending behavior
+
 4.To analyze customer demographics such as age, education, and job type
+
 5.To measure customer satisfaction and interest earnings
+
 6.To provide data-driven recommendations for business growth
 
 🛠 **TOOLS USED**
@@ -111,3 +116,16 @@ From the analysis, the following business insights were identified:
 Credit Card Transactions Dashboard
 (https://github.com/brickstoviks008/Credit-card-Transactions-and-Customer-Analysis/blob/main/Snapshot%20of%20the%20Dashboards.pdf)
 
+📌 Project Outcome
+
+This project demonstrates how Power BI dashboards can transform raw financial data into actionable insights that support business decision-making in the banking and financial services industry.
+
+The analysis helps identify:
+
+High-value customers
+
+Revenue drivers
+
+Spending behavior
+
+Opportunities for business growth
