@@ -146,7 +146,7 @@ Target **business professionals and white-collar workers** with premium benefits
 # 📷 Dashboard Preview
 
 ### Credit Card Transactions Dashboard
-(Add screenshot here)
+![Alt text](https://github.com/brickstoviks008/Credit-card-Transactions-and-Customer-Analysis/blob/main/Snapshot%20of%20Dashboard1.jpg)
 
 ### Credit Card Customers Dashboard
 (Add screenshot here)
